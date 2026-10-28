@@ -1,0 +1,56 @@
+class,order,family,genus,Species,Cursie Lake,Marco
+Aves,Pelecaniformes,Ardeidae,Ardea,Ardea herodias,TRUE,TRUE
+NA,NA,NA,NA,,TRUE,TRUE
+Aves,Accipitriformes,Cathartidae,Coragyps,Coragyps atratus,TRUE,TRUE
+Mammalia,Didelphimorphia,Didelphidae,Didelphis,Didelphis virginiana,TRUE,TRUE
+Mammalia,Carnivora,Procyonidae,Procyon,Procyon lotor,TRUE,TRUE
+Aves,Passeriformes,Icteridae,Quiscalus,Quiscalus major,TRUE,TRUE
+Aves,Passeriformes,Corvidae,Corvus,Corvus brachyrhynchos,TRUE,TRUE
+Mammalia,Carnivora,Felidae,Puma,Puma concolor,FALSE,TRUE
+Mammalia,Carnivora,Mustelidae,Lontra,Lontra canadensis,FALSE,TRUE
+Mammalia,Rodentia,Sciuridae,Sciurus,Sciurus carolinensis,TRUE,FALSE
+Aves,Accipitriformes,Cathartidae,Cathartes,Cathartes aura,TRUE,TRUE
+Reptilia,Crocodylia,Alligatoridae,Alligator,Alligator mississippiensis,TRUE,TRUE
+NA,NA,NA,NA,UnkMa,TRUE,FALSE
+Aves,Pelecaniformes,Ardeidae,Bubulcus,Bubulcus ibis,TRUE,FALSE
+Aves,Pelecaniformes,Threskiornithidae,Eudocimus,Eudocimus albus,TRUE,FALSE
+NA,NA,NA,NA,UnkRe,TRUE,FALSE
+Aves,Accipitriformes,Accipitridae,Buteo,Buteo lineatus,TRUE,TRUE
+Aves,Galliformes,Phasianidae,Meleagris,Meleagris gallopavo,TRUE,TRUE
+Reptilia,Squamata,Dactyloidae,Anolis,Anolis sagrei,TRUE,FALSE
+Aves,Pelecaniformes,Ardeidae,Butorides,Butorides virescens,TRUE,FALSE
+NA,NA,NA,NA,UnkBi,TRUE,FALSE
+Aves,Columbiformes,Columbidae,Columbina,Columbina passerina,TRUE,TRUE
+Mammalia,Carnivora,Felidae,Lynx,Lynx rufus,TRUE,TRUE
+Mammalia,Carnivora,Ursidae,Ursus,Ursus americanus,TRUE,TRUE
+Mammalia,Carnivora,Canidae,Canis,Canis latrans,TRUE,TRUE
+Aves,Pelecaniformes,Ardeidae,Nycticorax,Nycticorax nycticorax,TRUE,TRUE
+Aves,Suliformes,Anhingidae,Anhinga,Anhinga anhinga,TRUE,FALSE
+Aves,Pelecaniformes,Ardeidae,Egretta,Egretta caerulea,TRUE,FALSE
+Aves,Gruiformes,Aramidae,Aramus,Aramus guarauna,TRUE,FALSE
+Reptilia,Testudines,Trionychidae,Apalone,Apalone ferox,TRUE,TRUE
+Aves,Anseriformes,Anatidae,Spatula,Spatula discors,TRUE,FALSE
+Mammalia,Rodentia,NA,NA,Rodentia,TRUE,FALSE
+Reptilia,Squamata,Iguanidae,Iguana,Iguana iguana,TRUE,TRUE
+Reptilia,Testudines,Emydidae,Pseudemys,Pseudemys nelsoni,TRUE,FALSE
+Aves,Pelecaniformes,Ardeidae,Ardea,Ardea alba,TRUE,FALSE
+Reptilia,Squamata,Colubridae,Coluber,Coluber constrictor,TRUE,FALSE
+Aves,Passeriformes,Tyrannidae,Myiarchus,Myiarchus tyrannulus,TRUE,TRUE
+Aves,Passeriformes,Cardinalidae,Cardinalis,Cardinalis cardinalis,TRUE,FALSE
+Aves,Charadriiformes,Charadriidae,Charadrius,Charadrius vociferus,TRUE,FALSE
+Aves,Pelecaniformes,Ardeidae,Egretta,Egretta tricolor,TRUE,TRUE
+Mammalia,Lagomorpha,Leporidae,Sylvilagus,Sylvilagus palustris,TRUE,FALSE
+Aves,Caprimulgiformes,Caprimulgidae,Chordeiles,Chordeiles minor,TRUE,TRUE
+Aves,Strigiformes,NA,NA,Strigiformes,TRUE,FALSE
+Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,Nannopterum auritum,TRUE,FALSE
+Aves,Passeriformes,Corvidae,Cyanocitta,Cyanocitta cristata,TRUE,TRUE
+Aves,Strigiformes,Strigidae,Athene,Athene cunicularia,FALSE,TRUE
+Aves,Anseriformes,Anatidae,Anas,Anas fulvigula,TRUE,TRUE
+NA,NA,NA,NA,UnkSnake,TRUE,FALSE
+Mammalia,Rodentia,Muridae,NA,Muridae sp.,TRUE,FALSE
+Aves,Caprimulgiformes,Caprimulgidae,NA,Caprimulgidae,TRUE,FALSE
+Aves,Pelecaniformes,Ardeidae,Egretta,Egretta rufescens,TRUE,FALSE
+Mammalia,Cingulata,Dasypodidae,Dasypus,Dasypus novemcinctus,TRUE,FALSE
+Aves,Pelecaniformes,Threskiornithidae,Plegadis,Plegadis falcinellus,TRUE,FALSE
+Aves,Charadriiformes,Recurvirostridae,Himantopus,Himantopus mexicanus,TRUE,FALSE
+NA,NA,NA,NA,Bird,TRUE,FALSE

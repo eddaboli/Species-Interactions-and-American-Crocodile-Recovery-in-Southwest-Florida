@@ -1,0 +1,56 @@
+Species,Apr,Mar,Jun,Jul,Aug,May
+,1,1,1,1,1,1
+Alligator mississippiensis,1,1,1,1,0,1
+Anas fulvigula,1,0,0,1,0,0
+Anhinga anhinga,0,1,0,0,0,0
+Anolis sagrei,0,0,1,0,0,0
+Apalone ferox,1,1,1,0,0,1
+Aramus guarauna,0,1,1,0,0,0
+Ardea alba,1,1,0,0,0,0
+Ardea herodias,1,1,1,1,0,1
+Athene cunicularia,1,0,1,0,0,0
+Bird,1,0,0,0,0,1
+Bubulcus ibis,1,0,1,0,0,0
+Buteo lineatus,1,1,1,1,0,1
+Butorides virescens,1,1,1,1,0,1
+Canis latrans,1,1,1,1,1,1
+Caprimulgidae,1,0,1,0,0,0
+Cardinalis cardinalis,1,0,1,1,0,1
+Cathartes aura,1,1,1,1,0,1
+Charadrius vociferus,0,0,0,0,0,1
+Chordeiles minor,1,0,1,0,0,1
+Coluber constrictor,1,0,1,0,0,1
+Columbina passerina,1,0,1,1,0,1
+Coragyps atratus,1,0,1,1,0,1
+Corvus brachyrhynchos,1,1,1,1,0,1
+Cyanocitta cristata,0,0,1,0,0,1
+Dasypus novemcinctus,0,0,0,1,0,1
+Didelphis virginiana,1,1,1,1,1,0
+Egretta caerulea,1,1,0,0,0,0
+Egretta rufescens,0,0,0,0,0,1
+Egretta tricolor,0,1,1,0,0,1
+Eudocimus albus,1,0,1,0,0,1
+Himantopus mexicanus,0,0,1,0,0,0
+Iguana iguana,1,1,1,1,1,1
+Lontra canadensis,1,0,0,1,0,0
+Lynx rufus,1,1,1,1,1,1
+Meleagris gallopavo,1,1,1,0,0,0
+Muridae sp.,1,0,1,0,0,0
+Myiarchus tyrannulus,1,1,1,0,0,1
+Nannopterum auritum,0,0,1,0,0,0
+Nycticorax nycticorax,0,1,1,0,0,1
+Plegadis falcinellus,0,0,1,0,0,0
+Procyon lotor,1,0,1,1,1,1
+Pseudemys nelsoni,0,1,0,0,0,0
+Puma concolor,1,0,0,0,0,0
+Quiscalus major,1,0,1,0,0,1
+Rodentia,0,1,1,1,0,1
+Sciurus carolinensis,1,1,1,1,1,1
+Spatula discors,0,1,0,0,0,0
+Strigiformes,0,0,0,0,0,1
+Sylvilagus palustris,1,0,1,0,0,1
+UnkBi,1,1,1,1,0,1
+UnkMa,1,1,1,0,0,1
+UnkRe,1,0,0,0,0,1
+UnkSnake,0,1,0,0,0,0
+Ursus americanus,1,0,1,1,1,1

@@ -1,0 +1,44 @@
+Place,Year,Month,Especies,n_especies,Registros
+Cursie Lake,2020,Mar,; Corvus brachyrhynchos,2,10
+Cursie Lake,2020,Jun,; Sciurus carolinensis,2,2
+Cursie Lake,2020,Jul,; Cathartes aura; Coragyps atratus,3,8
+Cursie Lake,2021,Jul,,1,1
+Cursie Lake,2022,Mar,; Alligator mississippiensis,2,8
+Cursie Lake,2022,Apr,; Ardea herodias; Bubulcus ibis; Didelphis virginiana; Eudocimus albus; UnkMa; UnkRe,7,26
+Cursie Lake,2022,Jun,; Anolis sagrei; Buteo lineatus; Butorides virescens; Columbina passerina; Coragyps atratus; Meleagris gallopavo; UnkBi,8,41
+Cursie Lake,2022,Jul,; Ardea herodias; Columbina passerina; Didelphis virginiana; Lynx rufus; UnkBi; Ursus americanus,7,53
+Cursie Lake,2022,Aug,; Canis latrans; Didelphis virginiana; Sciurus carolinensis; Ursus americanus,5,19
+Cursie Lake,2023,Mar,; Alligator mississippiensis; Anhinga anhinga; Apalone ferox; Aramus guarauna; Ardea alba; Ardea herodias; Butorides virescens; Egretta caerulea; Iguana iguana; Nycticorax nycticorax; Pseudemys nelsoni; Rodentia; Sciurus carolinensis; Spatula discors; UnkBi,16,158
+Cursie Lake,2023,Apr,; Alligator mississippiensis; Ardea herodias; Bubulcus ibis; Butorides virescens; Cardinalis cardinalis; Coluber constrictor; Corvus brachyrhynchos; Egretta caerulea; Myiarchus tyrannulus; Sciurus carolinensis; UnkBi,12,72
+Cursie Lake,2023,May,; Alligator mississippiensis; Ardea herodias; Cardinalis cardinalis; Cathartes aura; Charadrius vociferus; Chordeiles minor; Columbina passerina; Coragyps atratus; Corvus brachyrhynchos; Egretta tricolor; Iguana iguana; Myiarchus tyrannulus; Nycticorax nycticorax; Rodentia; Sciurus carolinensis; Strigiformes; Sylvilagus palustris,18,128
+Cursie Lake,2023,Jun,; Alligator mississippiensis; Aramus guarauna; Ardea herodias; Bubulcus ibis; Cardinalis cardinalis; Cathartes aura; Chordeiles minor; Columbina passerina; Coragyps atratus; Corvus brachyrhynchos; Eudocimus albus; Iguana iguana; Meleagris gallopavo; Myiarchus tyrannulus; Nannopterum auritum; Quiscalus major; Rodentia; Sciurus carolinensis; Sylvilagus palustris,20,178
+Cursie Lake,2023,Jul,; Alligator mississippiensis; Anas fulvigula; Ardea herodias; Cardinalis cardinalis; Cathartes aura; Columbina passerina; Corvus brachyrhynchos; Iguana iguana; Rodentia; Sciurus carolinensis,11,65
+Cursie Lake,2024,Mar,; Corvus brachyrhynchos; Iguana iguana; Meleagris gallopavo; Sciurus carolinensis; UnkBi; UnkMa; UnkSnake,8,35
+Cursie Lake,2024,Apr,; Butorides virescens; Caprimulgidae; Corvus brachyrhynchos; Didelphis virginiana; Egretta caerulea; Meleagris gallopavo; Muridae sp.; Myiarchus tyrannulus; UnkBi,10,59
+Cursie Lake,2024,May,; Butorides virescens; Coluber constrictor; Corvus brachyrhynchos; Cyanocitta cristata; Dasypus novemcinctus; Egretta rufescens; Egretta tricolor; Eudocimus albus; Myiarchus tyrannulus; UnkBi; UnkMa; UnkRe,13,31
+Cursie Lake,2024,Jun,; Bubulcus ibis; Buteo lineatus; Butorides virescens; Canis latrans; Caprimulgidae; Corvus brachyrhynchos; Didelphis virginiana; Himantopus mexicanus; Lynx rufus; Muridae sp.; Nycticorax nycticorax; Plegadis falcinellus; UnkBi; UnkMa,15,69
+Cursie Lake,2024,Jul,; Butorides virescens; Didelphis virginiana; UnkBi,4,18
+Cursie Lake,2024,Aug,; Didelphis virginiana; Ursus americanus,3,11
+Cursie Lake,2025,Mar,; Alligator mississippiensis; Ardea herodias; Buteo lineatus; Canis latrans; Cathartes aura; Corvus brachyrhynchos; Didelphis virginiana; Egretta tricolor; Iguana iguana; Myiarchus tyrannulus; Rodentia,12,55
+Cursie Lake,2025,Apr,; Alligator mississippiensis; Apalone ferox; Ardea alba; Bird; Buteo lineatus; Canis latrans; Cardinalis cardinalis; Cathartes aura; Columbina passerina; Coragyps atratus; Corvus brachyrhynchos; Iguana iguana; Lynx rufus; Myiarchus tyrannulus; Quiscalus major; Sciurus carolinensis; Sylvilagus palustris; Ursus americanus,19,173
+Cursie Lake,2025,May,; Alligator mississippiensis; Bird; Buteo lineatus; Canis latrans; Columbina passerina; Corvus brachyrhynchos; Eudocimus albus; Iguana iguana; Lynx rufus; Myiarchus tyrannulus; Procyon lotor; Sciurus carolinensis; Ursus americanus,14,99
+Cursie Lake,2025,Jun,; Alligator mississippiensis; Apalone ferox; Aramus guarauna; Buteo lineatus; Cathartes aura; Coluber constrictor; Corvus brachyrhynchos; Iguana iguana; Myiarchus tyrannulus; Nannopterum auritum; Sciurus carolinensis,12,75
+Cursie Lake,2025,Jul,; Buteo lineatus; Dasypus novemcinctus; Rodentia; Sciurus carolinensis,5,19
+Marco,2011,Apr,; Ardea herodias; Coragyps atratus; Didelphis virginiana; Procyon lotor,5,18
+Marco,2017,Apr,; Corvus brachyrhynchos; Lontra canadensis; Puma concolor; Quiscalus major,5,15
+Marco,2023,Apr,; Alligator mississippiensis,2,2
+Marco,2023,May,; Apalone ferox; Canis latrans; Chordeiles minor; Columbina passerina; Corvus brachyrhynchos; Iguana iguana; Myiarchus tyrannulus; Nycticorax nycticorax; Procyon lotor; Quiscalus major,11,106
+Marco,2023,Jun,; Athene cunicularia; Canis latrans; Chordeiles minor; Columbina passerina; Corvus brachyrhynchos; Cyanocitta cristata; Egretta tricolor; Procyon lotor,9,27
+Marco,2023,Jul,; Canis latrans; Columbina passerina; Lynx rufus; Procyon lotor,5,29
+Marco,2024,Mar,; Lynx rufus,2,3
+Marco,2024,Apr,; Columbina passerina; Iguana iguana,3,9
+Marco,2024,May,; Iguana iguana; Procyon lotor; Ursus americanus,4,16
+Marco,2024,Jun,; Columbina passerina; Iguana iguana; Lynx rufus; Quiscalus major; Ursus americanus,6,55
+Marco,2024,Jul,; Iguana iguana,2,14
+Marco,2024,Aug,; Iguana iguana; Lynx rufus; Ursus americanus,4,30
+Marco,2025,Mar,; Canis latrans; Iguana iguana; Lynx rufus; Meleagris gallopavo,5,18
+Marco,2025,Apr,; Anas fulvigula; Athene cunicularia; Buteo lineatus; Canis latrans; Chordeiles minor; Corvus brachyrhynchos; Iguana iguana; Meleagris gallopavo; Procyon lotor,10,88
+Marco,2025,May,; Apalone ferox; Canis latrans; Chordeiles minor; Coragyps atratus; Corvus brachyrhynchos; Iguana iguana; Nycticorax nycticorax; Procyon lotor,9,103
+Marco,2025,Jun,; Canis latrans; Cathartes aura; Chordeiles minor; Corvus brachyrhynchos; Iguana iguana; Lynx rufus; Procyon lotor; Ursus americanus,9,86
+Marco,2025,Jul,; Buteo lineatus; Canis latrans; Columbina passerina; Iguana iguana; Lontra canadensis; Procyon lotor; Ursus americanus,8,67
+Marco,2025,Aug,; Iguana iguana; Lynx rufus; Procyon lotor,4,12

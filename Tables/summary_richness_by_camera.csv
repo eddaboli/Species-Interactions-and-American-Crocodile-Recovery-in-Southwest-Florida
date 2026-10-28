@@ -1,0 +1,9 @@
+Place,CameraID,n_species,n_genus,n_orders,n_families,n_classes
+Cursie Lake,C1,41,34,19,27,4
+Cursie Lake,C1.1,16,14,8,13,4
+Cursie Lake,C2,37,27,17,22,4
+Cursie Lake,C3,14,14,9,14,4
+Marco,,3,3,3,3,3
+Marco,C1,21,21,12,19,4
+Marco,C2,16,16,10,15,4
+Marco,C3,10,10,7,9,3

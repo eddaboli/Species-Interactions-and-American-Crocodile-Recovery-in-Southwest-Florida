@@ -1,0 +1,43 @@
+Class,Order,Family,Genus,Specie,IUCN,McIlvane Marsh ,Marco airpot
+Aves,Accipitriformes,Accipitridae,Buteo,Buteo lineatus,LC,Yes,No
+Aves,Accipitriformes,Cathartidae,Cathartes,Cathartes aura,LC,Yes,No
+Aves,Accipitriformes,Cathartidae,Coragyps,Coragyps atratus,LC,Yes,Yes
+Aves,Caprimulgiformes,Caprimulgidae,,Caprimulgidae,,Yes,No
+Aves,Charadriiformes,Recurvirostridae,Himantopus,Himantopus mexicanus,LC,Yes,No
+Aves,Columbiformes,Columbidae,Columbina,Columbina passerina,LC,Yes,Yes
+Aves,Galliformes,Phasianidae,Meleagris,Meleagris gallopavo,LC,Yes,No
+Aves,Passeriformes,Corvidae,Corvus,Corvus brachyrhynchos,LC,Yes,Yes
+Aves,Passeriformes,Corvidae,Cyanocitta,Cyanocitta cristata,LC,Yes,No
+Aves,Passeriformes,Icteridae,Quiscalus,Quiscalus major,LC,Yes,Yes
+Aves,Passeriformes,Tyrannidae,Myiarchus,Myiarchus tyrannulus,LC,Yes,No
+Aves,Pelecaniformes,Ardeidae,Ardea,Ardea herodias,LC,Yes,Yes
+Aves,Pelecaniformes,Ardeidae,Bubulcus,Bubulcus ibis,LC,Yes,No
+Aves,Pelecaniformes,Ardeidae,Butorides,Butorides virescens,LC,Yes,No
+Aves,Pelecaniformes,Ardeidae,Egretta,Egretta caerulea,LC,Yes,No
+Aves,Pelecaniformes,Ardeidae,Egretta,Egretta rufescens,NT,Yes,No
+Aves,Pelecaniformes,Ardeidae,Egretta,Egretta tricolor,LC,Yes,No
+Aves,Pelecaniformes,Ardeidae,Nycticorax,Nycticorax nycticorax,LC,Yes,No
+Aves,Pelecaniformes,Threskiornithidae,Eudocimus,Eudocimus albus,LC,Yes,No
+Aves,Pelecaniformes,Threskiornithidae,Plegadis,Plegadis falcinellus,LC,Yes,No
+Aves,Suliformes,Phalacrocoracidae,Phalacrocorax,Nannopterum auritum,LC,Yes,No
+Aves,,,,UnkBi,,Yes,No
+Mammalia,Carnivora,Canidae,Canis,Canis latrans,LC,Yes,No
+Mammalia,Carnivora,Felidae,Lynx,Lynx rufus,LC,Yes,Yes
+Mammalia,Carnivora,Felidae,Puma,Puma concolor,LC,No,Yes
+Mammalia,Carnivora,Mustelidae,Lontra,Lontra canadensis,LC,No,Yes
+Mammalia,Carnivora,Procyonidae,Procyon,Procyon lotor,LC,No,Yes
+Mammalia,Cingulata,Dasypodidae,Dasypus,Dasypus novemcinctus,LC,Yes,No
+Mammalia,Didelphimorphia,Didelphidae,Didelphis,Didelphis virginiana,LC,Yes,Yes
+Mammalia,Rodentia,Muridae,Rattus,Rattus sp.,,Yes,No
+Mammalia,Rodentia,Muridae,,Muridae ,,Yes,No
+Mammalia,Rodentia,Sciuridae,Sciurus,Sciurus carolinensis,LC,Yes,No
+Mammalia,Rodentia,,,Rodentia,,Yes,No
+Mammalia,,,,UnkMa,,Yes,No
+Mammalia,Carnivora,Ursidae,Ursus,Ursus americanus,LC,Yes,Yes
+Reptilia,Crocodylia,Alligatoridae,Alligator,Alligator mississippiensis,LC,Yes,No
+Reptilia,Squamata,Dactyloidae,Anolis,Anolis sagrei,LC,Yes,No
+Reptilia,Squamata,Colubridae,Coluber,Coluber constrictor,LC,Yes,No
+Reptilia,Squamata,Iguanidae,Iguana,Iguana iguana,LC,Yes,Yes
+Reptilia,Testudines,Trionychidae,Apalone,Apalone ferox,LC,Yes,No
+Reptilia,Squamata,,,UnkRe,,Yes,No
+Reptilia,,,,UnkSnake,,Yes,No

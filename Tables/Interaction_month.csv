@@ -1,0 +1,43 @@
+Area,Group,Category,Mar,Apr,May,Jun,Jul,Aug
+McIlvane Marsh,Reptiles,Feeding/foraging,0,0,0,0,0,0
+McIlvane Marsh,Reptiles,Resting,2,3,2,1,0,0
+McIlvane Marsh,Reptiles,Nesting,2,3,0,0,0,0
+McIlvane Marsh,Reptiles,Nest predation,0,0,0,0,0,0
+McIlvane Marsh,Reptiles,Nest inspection,1,0,0,2,0,0
+McIlvane Marsh,Reptiles,Nest disturbance,1,0,0,0,0,0
+McIlvane Marsh,Reptiles,Transiting,7,10,11,22,8,8
+McIlvane Marsh,Mammals,Feeding/foraging,0,0,0,0,0,0
+McIlvane Marsh,Mammals,Resting,0,0,0,0,0,0
+McIlvane Marsh,Mammals,Nesting,0,0,0,0,0,0
+McIlvane Marsh,Mammals,Nest predation,0,0,0,1,0,0
+McIlvane Marsh,Mammals,Nest inspection,1,3,1,5,7,3
+McIlvane Marsh,Mammals,Nest disturbance,0,0,0,0,0,0
+McIlvane Marsh,Mammals,Transiting,14,13,16,20,17,10
+McIlvane Marsh,Birds,Feeding/foraging,1,4,0,2,1,0
+McIlvane Marsh,Birds,Resting,1,3,8,5,0,0
+McIlvane Marsh,Birds,Nesting,0,0,0,0,0,0
+McIlvane Marsh,Birds,Nest predation,0,0,0,13,6,0
+McIlvane Marsh,Birds,Nest inspection,0,1,0,1,0,0
+McIlvane Marsh,Birds,Nest disturbance,0,0,0,0,0,0
+McIlvane Marsh,Birds,Transiting,28,28,53,88,37,0
+Marco Airport,Reptiles,Feeding/foraging,0,0,0,0,0,0
+Marco Airport,Reptiles,Resting,0,1,1,2,0,0
+Marco Airport,Reptiles,Nesting,0,0,1,0,0,1
+Marco Airport,Reptiles,Nest predation,0,0,0,0,0,0
+Marco Airport,Reptiles,Nest inspection,1,0,0,0,0,0
+Marco Airport,Reptiles,Nest disturbance,0,1,0,0,0,0
+Marco Airport,Reptiles,Transiting,6,8,14,20,16,10
+Marco Airport,Mammals,Feeding/foraging,0,0,0,0,0,0
+Marco Airport,Mammals,Resting,0,0,0,0,0,0
+Marco Airport,Mammals,Nesting,0,0,0,0,0,0
+Marco Airport,Mammals,Nest predation,0,0,6,0,0,0
+Marco Airport,Mammals,Nest inspection,0,1,15,11,0,0
+Marco Airport,Mammals,Nest disturbance,0,0,0,0,0,0
+Marco Airport,Mammals,Transiting,5,8,16,17,15,11
+Marco Airport,Birds,Feeding/foraging,0,1,0,0,1,0
+Marco Airport,Birds,Resting,0,0,0,0,0,0
+Marco Airport,Birds,Nesting,0,0,0,0,0,0
+Marco Airport,Birds,Nest predation,0,0,0,0,0,0
+Marco Airport,Birds,Nest inspection,0,0,0,0,0,0
+Marco Airport,Birds,Nest disturbance,0,0,0,0,0,0
+Marco Airport,Birds,Transiting,4,6,23,17,12,0

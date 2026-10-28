@@ -1,0 +1,159 @@
+Place,CameraID,Species
+Cursie Lake,C1,
+Cursie Lake,C1,Alligator mississippiensis
+Cursie Lake,C1,Anas fulvigula
+Cursie Lake,C1,Anhinga anhinga
+Cursie Lake,C1,Anolis sagrei
+Cursie Lake,C1,Apalone ferox
+Cursie Lake,C1,Aramus guarauna
+Cursie Lake,C1,Ardea alba
+Cursie Lake,C1,Ardea herodias
+Cursie Lake,C1,Bubulcus ibis
+Cursie Lake,C1,Buteo lineatus
+Cursie Lake,C1,Butorides virescens
+Cursie Lake,C1,Canis latrans
+Cursie Lake,C1,Caprimulgidae
+Cursie Lake,C1,Cardinalis cardinalis
+Cursie Lake,C1,Cathartes aura
+Cursie Lake,C1,Charadrius vociferus
+Cursie Lake,C1,Chordeiles minor
+Cursie Lake,C1,Coluber constrictor
+Cursie Lake,C1,Columbina passerina
+Cursie Lake,C1,Coragyps atratus
+Cursie Lake,C1,Corvus brachyrhynchos
+Cursie Lake,C1,Cyanocitta cristata
+Cursie Lake,C1,Dasypus novemcinctus
+Cursie Lake,C1,Didelphis virginiana
+Cursie Lake,C1,Egretta caerulea
+Cursie Lake,C1,Egretta tricolor
+Cursie Lake,C1,Iguana iguana
+Cursie Lake,C1,Lynx rufus
+Cursie Lake,C1,Meleagris gallopavo
+Cursie Lake,C1,Myiarchus tyrannulus
+Cursie Lake,C1,Nycticorax nycticorax
+Cursie Lake,C1,Procyon lotor
+Cursie Lake,C1,Rodentia
+Cursie Lake,C1,Sciurus carolinensis
+Cursie Lake,C1,Spatula discors
+Cursie Lake,C1,Sylvilagus palustris
+Cursie Lake,C1,UnkBi
+Cursie Lake,C1,UnkMa
+Cursie Lake,C1,UnkRe
+Cursie Lake,C1,Ursus americanus
+Cursie Lake,C1.1,
+Cursie Lake,C1.1,Alligator mississippiensis
+Cursie Lake,C1.1,Bird
+Cursie Lake,C1.1,Buteo lineatus
+Cursie Lake,C1.1,Canis latrans
+Cursie Lake,C1.1,Cardinalis cardinalis
+Cursie Lake,C1.1,Cathartes aura
+Cursie Lake,C1.1,Coragyps atratus
+Cursie Lake,C1.1,Corvus brachyrhynchos
+Cursie Lake,C1.1,Didelphis virginiana
+Cursie Lake,C1.1,Iguana iguana
+Cursie Lake,C1.1,Lynx rufus
+Cursie Lake,C1.1,Myiarchus tyrannulus
+Cursie Lake,C1.1,Procyon lotor
+Cursie Lake,C1.1,Rodentia
+Cursie Lake,C1.1,Sciurus carolinensis
+Cursie Lake,C2,
+Cursie Lake,C2,Alligator mississippiensis
+Cursie Lake,C2,Apalone ferox
+Cursie Lake,C2,Aramus guarauna
+Cursie Lake,C2,Ardea alba
+Cursie Lake,C2,Ardea herodias
+Cursie Lake,C2,Bubulcus ibis
+Cursie Lake,C2,Buteo lineatus
+Cursie Lake,C2,Butorides virescens
+Cursie Lake,C2,Cardinalis cardinalis
+Cursie Lake,C2,Cathartes aura
+Cursie Lake,C2,Chordeiles minor
+Cursie Lake,C2,Coragyps atratus
+Cursie Lake,C2,Corvus brachyrhynchos
+Cursie Lake,C2,Dasypus novemcinctus
+Cursie Lake,C2,Egretta caerulea
+Cursie Lake,C2,Egretta rufescens
+Cursie Lake,C2,Egretta tricolor
+Cursie Lake,C2,Eudocimus albus
+Cursie Lake,C2,Himantopus mexicanus
+Cursie Lake,C2,Iguana iguana
+Cursie Lake,C2,Meleagris gallopavo
+Cursie Lake,C2,Muridae sp.
+Cursie Lake,C2,Nannopterum auritum
+Cursie Lake,C2,Nycticorax nycticorax
+Cursie Lake,C2,Plegadis falcinellus
+Cursie Lake,C2,Pseudemys nelsoni
+Cursie Lake,C2,Quiscalus major
+Cursie Lake,C2,Rodentia
+Cursie Lake,C2,Sciurus carolinensis
+Cursie Lake,C2,Strigiformes
+Cursie Lake,C2,Sylvilagus palustris
+Cursie Lake,C2,UnkBi
+Cursie Lake,C2,UnkMa
+Cursie Lake,C2,UnkRe
+Cursie Lake,C2,UnkSnake
+Cursie Lake,C2,Ursus americanus
+Cursie Lake,C3,
+Cursie Lake,C3,Apalone ferox
+Cursie Lake,C3,Buteo lineatus
+Cursie Lake,C3,Canis latrans
+Cursie Lake,C3,Coluber constrictor
+Cursie Lake,C3,Columbina passerina
+Cursie Lake,C3,Corvus brachyrhynchos
+Cursie Lake,C3,Eudocimus albus
+Cursie Lake,C3,Iguana iguana
+Cursie Lake,C3,Myiarchus tyrannulus
+Cursie Lake,C3,Nannopterum auritum
+Cursie Lake,C3,Procyon lotor
+Cursie Lake,C3,Quiscalus major
+Cursie Lake,C3,Ursus americanus
+Marco,,
+Marco,,Canis latrans
+Marco,,Columbina passerina
+Marco,C1,
+Marco,C1,Anas fulvigula
+Marco,C1,Apalone ferox
+Marco,C1,Ardea herodias
+Marco,C1,Athene cunicularia
+Marco,C1,Buteo lineatus
+Marco,C1,Canis latrans
+Marco,C1,Chordeiles minor
+Marco,C1,Columbina passerina
+Marco,C1,Coragyps atratus
+Marco,C1,Corvus brachyrhynchos
+Marco,C1,Didelphis virginiana
+Marco,C1,Iguana iguana
+Marco,C1,Lontra canadensis
+Marco,C1,Lynx rufus
+Marco,C1,Myiarchus tyrannulus
+Marco,C1,Nycticorax nycticorax
+Marco,C1,Procyon lotor
+Marco,C1,Puma concolor
+Marco,C1,Quiscalus major
+Marco,C1,Ursus americanus
+Marco,C2,
+Marco,C2,Alligator mississippiensis
+Marco,C2,Buteo lineatus
+Marco,C2,Canis latrans
+Marco,C2,Cathartes aura
+Marco,C2,Chordeiles minor
+Marco,C2,Columbina passerina
+Marco,C2,Coragyps atratus
+Marco,C2,Corvus brachyrhynchos
+Marco,C2,Iguana iguana
+Marco,C2,Lontra canadensis
+Marco,C2,Lynx rufus
+Marco,C2,Meleagris gallopavo
+Marco,C2,Nycticorax nycticorax
+Marco,C2,Procyon lotor
+Marco,C2,Ursus americanus
+Marco,C3,
+Marco,C3,Athene cunicularia
+Marco,C3,Canis latrans
+Marco,C3,Chordeiles minor
+Marco,C3,Columbina passerina
+Marco,C3,Corvus brachyrhynchos
+Marco,C3,Cyanocitta cristata
+Marco,C3,Egretta tricolor
+Marco,C3,Lynx rufus
+Marco,C3,Procyon lotor
